@@ -1,0 +1,55 @@
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.deps.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.dev.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfoInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfo.cs
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.deps.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.dev.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfoInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfo.cs
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\RestFul\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.deps.json
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.json
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.dev.json
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csprojResolveAssemblyReference.cache
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csproj.CoreCompileInputs.cache
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfoInputs.cache
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfo.cs
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+D:\ITM\shipbob\newBc\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.deps.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.dev.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfoInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfo.cs
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10122017\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.deps.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.runtimeconfig.dev.json
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\bin\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfoInputs.cache
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.AssemblyInfo.cs
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.dll
+C:\Users\Kamala\Documents\Visual Studio 2017\Projects\10-13-2017_Two\ShipBobUserOrderManagement\ShipBobUserOrderManagement\obj\Debug\netcoreapp2.0\ShipBobUserOrderManagement.pdb

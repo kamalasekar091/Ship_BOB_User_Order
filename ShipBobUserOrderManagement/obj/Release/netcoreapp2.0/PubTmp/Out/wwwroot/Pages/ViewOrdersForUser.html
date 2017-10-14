@@ -1,0 +1,133 @@
+﻿<div class="containter">
+
+</div>
+
+<div class="jumbotron">
+    <div ng-show="tableView">
+        <h3>LIST OF ORDERS FOR USER</h3>
+
+       
+        <table  class="table table-hover table-bordered table-striped">
+
+            <thead>
+                <tr class="alert-warning">
+                    <th st-sort="id" style="display:none;">Id</th>
+                    <th align="center" st-sort="id3"></th>
+                    <th align="center" st-sort="UserId">User Id</th>
+                    <th align="center" st-sort="TrackingID">Tracking ID</th>
+                    <th align="center" st-sort="Name">Name</th>
+                    <th align="center" st-sort="StreetAddress">Street Address</th>
+                    <th align="center" st-sort="City">City</th>
+                    <th align="center" st-sort="State">State</th>
+                    <th align="center" st-sort="ZipCode">ZipCode</th>
+                    <th align="center">Action</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="theOrder in ordersForAUser track by $index">
+
+                    <td><a href="#" class="active" style="display:none;" required>{{theOrder.id}}</a></td>
+                    <td>{{theOrder.userId}}</td>
+                    <td>{{theOrder.trackingID}}</td>
+                    <td>{{theOrder.name}}</td>
+
+                    <td>{{theOrder.streetAddress}}</td>
+
+                    <td>{{theOrder.city}}</td>
+                    <td>{{theOrder.state}}</td>
+
+                    <td>{{theOrder.zipCode}}</td>
+
+                    <!--<td><button class="btn btn-success" ng-click="editOrder(theOrder)">Edit Order</button></td>-->
+                    <!--<td><a class="btn btn-default" ng-click="editOrder(theOrder)">
+                        <i class="fa fa-cog"></i> Edit
+                    </a></td>-->
+                    <!--<td><button class="btn btn-danger" ng-click="delete(theOrder)">Delete Orders</button></td>-->
+                    <!--<td><a class="btn btn-danger" ng-click="delete(theOrder)">
+                        <i class="fa fa-trash-o fa-lg"></i> Delete
+                    </a></td>-->
+
+                    <td>
+                        <button class="btn btn-default btn-sm btn-primary" ng-click="editOrder(theOrder)">
+                            <span class="glyphicon glyphicon-edit"></span>  Edit
+                        </button>
+                        <span style="display:none;">..........</span>
+                        <!--</td>
+
+                        <td>-->
+
+                        <button type="button" class="btn btn-default btn-sm btn-danger" ng-click="delete(theOrder)">
+                            <span class="glyphicon glyphicon-trash"></span> Delete
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+
+    </div>
+
+    <div ng-show="editform">
+        <h2>Edit Order</h2>
+
+        <hr />
+
+        <div class="control-group">
+            <!-- Username -->
+            <label class="control-label" for="username">Order Name</label>
+            <div class="controls">
+                <input class="form-control" type="text" ng-model="editor.name" required>
+            </div>
+        </div>
+        <div class="control-group">
+            <!-- Username -->
+            <label class="control-label" for="username">Street Address</label>
+            <div class="controls">
+                <input class="form-control" type="text" ng-model="editor.streetAddress" required>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <!-- Username -->
+            <label class="control-label" for="username">State</label>
+            <div class="controls">
+                <input class="form-control" type="text" id="username" ng-model="editor.state" required>
+            </div>
+        </div>
+        <div class="control-group">
+            <!-- Username -->
+            <label class="control-label" for="username">City</label>
+            <div class="controls">
+                <input class="form-control" type="text" ng-model="editor.city" required>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <!-- Username -->
+            <label class="control-label" for="username">ZipCode</label>
+            <div class="controls">
+                <input class="form-control" type="text" placeholder="Please type only number" ng-model="editor.zipCode" required>
+            </div>
+            <br />
+
+            <div class="control-group">
+                <!-- Button -->
+                <div class="controls">
+                    <input type="submit" ng-click="save(editor.id,editor.userId,editor.trackingID,editor.name,editor.streetAddress,editor.state,editor.city,editor.zipCode)" value="Save Edited" class="btn btn-success" />
+                </div>
+            </div>
+
+
+            <!-- <div>User Name <input ng-model="editor.name"></div>
+             <div>Street address <input ng-model="editor.streetAddress"></div>
+             <div>City<input ng-model="editor.city"></div>
+             <div>State<input ng-model="editor.state"></div>
+             <div>ZipCode<input ng-model="editor.zipCode"></div>
+
+             <div> <button ng-click="save()">Save</button> <button ng-click="cancel()">Cancel</button> </div>
+                -->
+        </div>
+    </div>
+</div>

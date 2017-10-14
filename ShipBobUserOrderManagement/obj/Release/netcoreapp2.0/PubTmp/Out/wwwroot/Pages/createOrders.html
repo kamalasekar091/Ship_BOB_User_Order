@@ -1,0 +1,75 @@
+﻿<div class="container">
+   <!-- <div class="well">-->
+        <div id="myTabContent" class="tab-content">
+            <div class="tab-pane active in">
+                <form name="myForm">
+                    <br />
+                    <div id="legend">
+                        <legend class="alert-info"> Create Order</legend>
+                        
+                    </div>
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label" for="username">Tracking Id</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" placeholder="Enter Tracking Id here" ng-model="trackingID" required>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label" for="username">Order Name</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" placeholder="Enter Order Name here" ng-model="name" required>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label" for="username">Street Address</label>
+                        <div class="controls">
+                            <input class="form-control" type="text"  placeholder="Enter Street Address here" ng-model="streetAddress" required>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label" for="username">State</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" placeholder="Enter State here" ng-model="state" required>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label" for="username">City</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" placeholder="Enter city here" ng-model="city" required>
+                        </div>
+                    </div>
+                    
+                    
+
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label" for="username">ZipCode</label>
+                        <div class="controls">
+                            <input class="form-control" type="text" placeholder="Enter Zip Code here" ng-model="zipCode" required>
+                        </div>
+                        <br />
+
+                        <div class="control-group">
+                            <!-- Button -->
+                            <div class="controls">
+                                <input type="submit" ng-click="addOrder()" value="Add Order" class="btn btn-success" />
+                            </div>
+                        </div>
+                        
+                       
+                </form>
+            </div>
+
+            <br />
+            <br />
+            
+        <!--</div>-->
+    </div>
+

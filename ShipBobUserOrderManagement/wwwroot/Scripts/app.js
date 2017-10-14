@@ -1,0 +1,1 @@
+﻿var shipBobOrderApp = angular.module('shipBobOrderApp', ['ngRoute', 'ngResource']);
